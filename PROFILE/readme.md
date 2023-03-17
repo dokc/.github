@@ -11,7 +11,7 @@ DoKC has produced a range of resources for end users looking to run DoK includin
 * [Videos](https://www.youtube.com/c/DoKcommunity/featured) and [Blogs](https://dok.community/blog/). Over 700+ videos and blogs including how tos, tutorials, use cases, case studies, and more.
 * [DoK Reports](https://dok.community/dok-reports/). DoKC works with an independent research firm to annually produce the industry’s only DoK-focused report.
 * [Livestreams and Local Meetups](https://www.meetup.com/Data-on-Kubernetes-community/events/). Weekly livestreams on DoK-related topics including demos, tutorials, visionary talks, panels, and more.
-* [DoK Days @ KubeCon](https://dok.community/). We host hybrid events twice a year for people to get together and learn in-person or online. Details are published on our main website.
+* [DoK Days @ KubeCon](https://dok.community/). We host hybrid events for people to get together and learn in-person or online. Details are published on our main website.
 
 ## Communicate
 You can connect with us in many ways. Below is a list of our primary channels to join discussions within DoKC:
