@@ -7,6 +7,7 @@ DoKC is managed by Constantia.io. If your company wants to help shape the evolut
 ## Learn
 DoKC has produced a range of resources for end users looking to run DoK including:
 
+* [DoK Get Started Guide](https://github.com/dokc/Get-Started). A community generated guide for getting started with running data workloads on Kubernetes.
 * [DoK Landscape](https://dok.community/landscape/). An interactive landscape of products and services for running data workloads on Kubernetes.
 * [Videos](https://www.youtube.com/c/DoKcommunity/featured) and [Blogs](https://dok.community/blog/). Over 700+ videos and blogs including how tos, tutorials, use cases, case studies, and more.
 * [DoK Reports](https://dok.community/dok-reports/). DoKC works with an independent research firm to annually produce the industry’s only DoK-focused report.
